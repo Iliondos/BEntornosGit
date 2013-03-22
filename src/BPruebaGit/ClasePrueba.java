@@ -3,6 +3,7 @@ package BPruebaGit;
 public class ClasePrueba {
 
 	/**
+	 * @author Olga 
 	 * @param args
 	 * Clase que estamos haciendo para probar git
 	 */
