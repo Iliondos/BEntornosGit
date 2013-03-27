@@ -9,6 +9,8 @@ public class ClasePrueba {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Probando voy, probando vengo. ");
+		System.out.println("Por el camino yo me entretengo");
+		System.out.println("¿Hola Mundo?");
 
 	}
 
