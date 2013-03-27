@@ -20,5 +20,5 @@ Como detalle curioso e interesante, podemos decir que GitHub automáticamente te
 
 Olga: iliondos@hotmail.com
 
-Y eso es todo
+Y eso es todo, amigos. 
 
