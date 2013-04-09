@@ -12,6 +12,7 @@ public class ClasePrueba {
 		System.out.println("Por el camino yo me entretengo");
 		System.out.println("�Hola Mundo?");
 		System.out.println("Estamos editando en GitHub");
+		System.out.println("Nueva edición en GitHub");
 	}
 
 }
