@@ -14,6 +14,7 @@ public class ClasePrueba {
 		System.out.println("Estamos editando en GitHub");
 		System.out.println("Nueva edición en GitHub");
 		System.out.println("Modificación realizada por Óscar en el repositorio de Olga");
+		System.out.println("Nueva modificacion en Eclipse");
 	}
 
 }
